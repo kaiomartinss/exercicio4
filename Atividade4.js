@@ -1,4 +1,4 @@
-var girlfriend = {
+const girlfriend = {
     nome: "Cecilia Palitot",
     idade: 19,
     filiação: ["Jovanka Espinola", "Ubirajara Palitot"],
@@ -13,7 +13,7 @@ var girlfriend = {
     }  
 };
 
-var boyfriend = {
+const boyfriend = {
     nome: "Kaio Paulo",
     idade: 20,
     filiação: ["Lucijane Martins", "Paulo Martins"],
